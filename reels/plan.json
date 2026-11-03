@@ -1,5 +1,5 @@
 {
-  "nota": "Calendario de reels de @colaboratium. Uno por día a las 20:00 (hora de Argentina). Cada reel se carga en n8n como máximo 24 h antes de su hora.",
+  "nota": "Calendario de reels de @colaboratium. Tres por día a las 09:00, 14:00 y 19:00 (hora de Argentina). Cada reel se carga en n8n el mismo día, antes de su hora (máximo 24 h antes).",
   "reels": [
     {
       "n": 11,
@@ -11,63 +11,63 @@
     },
     {
       "n": 12,
-      "fecha_publicacion": "2026-11-03T20:00:00-03:00",
+      "fecha_publicacion": "2026-11-03T09:00:00-03:00",
       "video": "reels/reel12_piedras_de_yap.mp4",
       "portada": "reels/reel12_piedras_de_yap_portada.jpg",
       "texto": "En esta isla, una familia era rica gracias a una piedra que estaba en el fondo del mar.\n\nEn Yap, en el océano Pacífico, la plata eran piedras redondas con un agujero en el medio, algunas más altas que una persona. Cuando alguien pagaba, la piedra no se movía: cambiaba el dueño y todo el pueblo lo recordaba. Una se hundió en el mar… y siguió valiendo, porque todos aceptaron que existía.\n\n¿Tu plata es lo que tenés en la mano… o lo que los demás confían que tenés?\n\n#historiadeldinero #confianza #finanzaspersonales #curiosidades #colaboratium\n\nContenido informativo. No constituye recomendación de inversión."
     },
     {
       "n": 13,
-      "fecha_publicacion": "2026-11-04T20:00:00-03:00",
+      "fecha_publicacion": "2026-11-03T14:00:00-03:00",
       "video": "reels/reel13_yunus_27_dolares.mp4",
       "portada": "reels/reel13_yunus_27_dolares_portada.jpg",
       "texto": "Un profesor prestó 27 dólares de su bolsillo… y terminó ganando el Nobel de la Paz.\n\nBangladesh, 1976: Muhammad Yunus le prestó 27 dólares a 42 artesanas que estaban atrapadas por prestamistas. Todas le devolvieron. Los bancos decían que a los pobres no se les presta. Él fundó el Grameen Bank: préstamos chicos, sin garantía, basados en la confianza y en grupos que se apoyan. En 2006 ganaron el Nobel de la Paz.\n\n¿Y vos, a quién le prestarías tu confianza?\n\n#prestamosentrepersonas #microcreditos #confianza #finanzaspersonales #colaboratium\n\nContenido informativo. No constituye recomendación de inversión."
     },
     {
       "n": 14,
-      "fecha_publicacion": "2026-11-05T20:00:00-03:00",
+      "fecha_publicacion": "2026-11-03T19:00:00-03:00",
       "video": "reels/reel14_worgl.mp4",
       "portada": "reels/reel14_worgl_portada.jpg",
       "texto": "Este pueblo inventó una plata que perdía valor todos los meses… y le fue mejor.\n\nWörgl, Austria, 1932: en plena crisis no había trabajo y nadie gastaba. El intendente imprimió sus propios billetes, y cada mes había que pegarles una estampilla del 1 % para que siguieran valiendo. Nadie los guardaba: la plata circuló, se hicieron obras y volvió el trabajo. En 1933, el banco central de Austria lo prohibió.\n\n¿Tu plata está trabajando… o está quieta en un cajón?\n\n#historiadeldinero #economia #finanzaspersonales #ahorro #colaboratium\n\nContenido informativo. No constituye recomendación de inversión."
     },
     {
       "n": 15,
-      "fecha_publicacion": "2026-11-06T20:00:00-03:00",
+      "fecha_publicacion": "2026-11-04T09:00:00-03:00",
       "video": "reels/reel15_zopa_p2p.mp4",
       "portada": "reels/reel15_zopa_p2p_portada.jpg",
       "texto": "Hace más de 20 años, alguien en Londres le prestó plata a un desconocido… por internet.\n\nEn 2005 nació Zopa, la primera plataforma de préstamos entre personas del mundo: gente con ahorros le presta directo a gente que necesita un préstamo, sin un banco en el medio. El que presta recibe un interés, el que pide paga menos, y el riesgo se reparte en muchos préstamos chiquitos. La idea se copió en todo el mundo.\n\n¿Sabías que tu plata puede ayudar a otra persona y trabajar al mismo tiempo?\n\n#prestamosentrepersonas #p2p #finanzaspersonales #fintech #colaboratium\n\nContenido informativo. No constituye recomendación de inversión."
     },
     {
       "n": 16,
-      "fecha_publicacion": "2026-11-07T20:00:00-03:00",
+      "fecha_publicacion": "2026-11-04T14:00:00-03:00",
       "video": "reels/reel16_mpesa_kenia.mp4",
       "portada": "reels/reel16_mpesa_kenia_portada.jpg",
       "texto": "En Kenia, millones de personas mandan plata con un celular… sin tener cuenta en un banco.\n\nEn 2007, la mayoría de los kenianos no tenía banco, pero sí un celular básico. Con M-Pesa cargás plata en un kiosco, la mandás por SMS y la otra persona la retira en otro kiosco. Un estudio publicado en Science calculó que ayudó a sacar de la pobreza a unos 194.000 hogares: el 2 % del país.\n\n¿Y vos, cuánto tarda tu plata en llegar a donde la necesitás?\n\n#prestamosentrepersonas #inclusionfinanciera #dineromovil #tecnologia #colaboratium\n\nContenido informativo. No constituye recomendación de inversión."
     },
     {
       "n": 17,
-      "fecha_publicacion": "2026-11-08T20:00:00-03:00",
+      "fecha_publicacion": "2026-11-04T19:00:00-03:00",
       "video": "reels/reel17_primer_billete.mp4",
       "portada": "reels/reel17_primer_billete_portada.jpg",
       "texto": "El primer billete del mundo no nació en Europa.\n\nSichuan, China: las monedas de hierro pesaban tanto que los comerciantes las dejaban en casas de confianza a cambio de un papel. En 1024 el gobierno lo hizo oficial: el jiaozi. Desde entonces, la plata es una promesa, y vale lo que vale la confianza en quien la firma.\n\n¿Y vos, en la promesa de quién confiás?\n\n#historiadeldinero #billetes #confianza #finanzas #colaboratium\n\nContenido informativo. No constituye recomendación de inversión."
     },
     {
       "n": 18,
-      "fecha_publicacion": "2026-11-09T20:00:00-03:00",
+      "fecha_publicacion": "2026-11-05T09:00:00-03:00",
       "video": "reels/reel18_historial_crediticio.mp4",
       "portada": "reels/reel18_historial_crediticio_portada.jpg",
       "texto": "Hace más de 100 años, dos hermanos empezaron a anotar en fichas cómo vivía la gente… para decidir quién merecía crédito.\n\nAtlanta, 1899: los hermanos Woodruff juntaban datos de los clientes de los comercios (si pagaban, si se atrasaban, qué decían los vecinos) para que los comerciantes decidieran a quién fiarle. Esa empresa hoy se llama Equifax, y lo que empezó con fichas de papel hoy es tu historial crediticio.\n\nLa pregunta no es si alguien mira cómo pagás. Es qué historia cuenta de vos. ¿Cuidás tu historial?\n\n#historialcrediticio #credito #finanzaspersonales #historiadeldinero #colaboratium\n\nContenido informativo. No constituye recomendación de inversión."
     },
     {
       "n": 19,
-      "fecha_publicacion": "2026-11-10T20:00:00-03:00",
+      "fecha_publicacion": "2026-11-05T14:00:00-03:00",
       "video": "reels/reel19_estatua_libertad.mp4",
       "portada": "reels/reel19_estatua_libertad_portada.jpg",
       "texto": "La Estatua de la Libertad casi no se arma… porque no había plata para el pedestal.\n\n1885: Francia había regalado la estatua, pero en Estados Unidos había que pagar la base y la plata no aparecía. Joseph Pulitzer prometió publicar en su diario el nombre de cada persona que donara, aunque fuera poco. Respondieron unas 125.000 personas, la mayoría con un dólar o menos. En cinco meses juntaron más de 100.000 dólares y el pedestal se terminó.\n\n¿Y vos, qué podrían lograr muchas personas juntas?\n\n#financiamientocolectivo #historiadeldinero #comunidad #finanzaspersonales #colaboratium\n\nContenido informativo. No constituye recomendación de inversión."
     },
     {
       "n": 20,
-      "fecha_publicacion": "2026-11-11T20:00:00-03:00",
+      "fecha_publicacion": "2026-11-05T19:00:00-03:00",
       "video": "reels/reel20_pin_cuatro_digitos.mp4",
       "portada": "reels/reel20_pin_cuatro_digitos_portada.jpg",
       "texto": "Tu clave del cajero tiene cuatro números… por culpa de una esposa.\n\nLondres, 1967: John Shepherd-Barron inventa el cajero automático. Su idea era una clave de seis números, pero antes la probó con su esposa, Caroline: seis no los podía recordar, cuatro sí. Y quedaron cuatro, que se volvieron el estándar en todo el mundo.\n\nDetrás de cada sistema hay una decisión humana. ¿Y vos, quién decide cómo se cuida tu plata?\n\n#cajero #historiadeldinero #seguridad #finanzaspersonales #colaboratium\n\nContenido informativo. No constituye recomendación de inversión."
